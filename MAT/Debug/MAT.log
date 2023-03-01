@@ -1,0 +1,43 @@
+﻿  MAT.cpp
+D:\沐戈\C++Lab\MAT\MAT.cpp(210,25): warning C4477: “sprintf”: 格式字符串“%6lld”需要类型“__int64”的参数，但可变参数 1 拥有了类型“T”
+          with
+          [
+              T=int
+          ]
+D:\沐戈\C++Lab\MAT\MAT.cpp(210,25): message : 请考虑在格式字符串中使用“%d”
+D:\沐戈\C++Lab\MAT\MAT.cpp(210,25): message : 请考虑在格式字符串中使用“%Id”
+D:\沐戈\C++Lab\MAT\MAT.cpp(210,25): message : 请考虑在格式字符串中使用“%I32d”
+D:\沐戈\C++Lab\MAT\MAT.cpp(180): message : 在编译 类 模板 成员函数“char *MAT<int>::print(char *) noexcept const”时
+D:\沐戈\C++Lab\MAT\Head.h(30): message : 查看对正在编译的 类 模板 实例化“MAT<int>”的引用
+D:\沐戈\C++Lab\MAT\MAT.cpp(228,25): warning C4477: “sprintf”: 格式字符串“%8f”需要类型“double”的参数，但可变参数 1 拥有了类型“T”
+          with
+          [
+              T=int
+          ]
+D:\沐戈\C++Lab\MAT\MAT.cpp(246,25): warning C4477: “sprintf”: 格式字符串“%8lf”需要类型“double”的参数，但可变参数 1 拥有了类型“T”
+          with
+          [
+              T=int
+          ]
+D:\沐戈\C++Lab\MAT\MAT.cpp(192,25): warning C4477: “sprintf”: 格式字符串“%6ld”需要类型“long”的参数，但可变参数 1 拥有了类型“T”
+          with
+          [
+              T=__int64
+          ]
+D:\沐戈\C++Lab\MAT\MAT.cpp(192,25): message : 请考虑在格式字符串中使用“%lld”
+D:\沐戈\C++Lab\MAT\MAT.cpp(192,25): message : 请考虑在格式字符串中使用“%I64d”
+D:\沐戈\C++Lab\MAT\MAT.cpp(180): message : 在编译 类 模板 成员函数“char *MAT<__int64>::print(char *) noexcept const”时
+D:\沐戈\C++Lab\MAT\Head.h(31): message : 查看对正在编译的 类 模板 实例化“MAT<__int64>”的引用
+D:\沐戈\C++Lab\MAT\MAT.cpp(228,25): warning C4477: “sprintf”: 格式字符串“%8f”需要类型“double”的参数，但可变参数 1 拥有了类型“T”
+          with
+          [
+              T=__int64
+          ]
+D:\沐戈\C++Lab\MAT\MAT.cpp(246,25): warning C4477: “sprintf”: 格式字符串“%8lf”需要类型“double”的参数，但可变参数 1 拥有了类型“T”
+          with
+          [
+              T=__int64
+          ]
+D:\沐戈\C++Lab\MAT\MAT.cpp(155): warning C4715: “MAT<int>::operator=”: 不是所有的控件路径都返回值
+D:\沐戈\C++Lab\MAT\MAT.cpp(155): warning C4715: “MAT<__int64>::operator=”: 不是所有的控件路径都返回值
+  MAT.vcxproj -> D:\沐戈\C++Lab\MAT\Debug\MAT.exe
